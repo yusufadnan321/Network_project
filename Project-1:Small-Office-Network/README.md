@@ -13,11 +13,18 @@ Ip Address table
 cli command for router configuration
 
 enable
+
 configure terminal
+
 hostname Office-Router
+
 interface gigabitEthernet0/0
+
 ip address 192.168.10.1 255.255.255.0
+
 no shutdown
+
 exit
+
 end
 
