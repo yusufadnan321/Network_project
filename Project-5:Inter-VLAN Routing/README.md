@@ -25,19 +25,19 @@ Configure the Switch
   
       enable
       configure terminal
-      hostname Office-Switch
+      hostname office-switch
       
       vlan 10
       name HR
       exit
       vlan 20
-      name Finance
+      name IT
       exit
-      vlan 20
-      name Finance
+      vlan 30
+      name AC
       exit
-      vlan 20
-      name Finance
+      vlan 40
+      name ADMIN
       exit
 
   Assign Ports
