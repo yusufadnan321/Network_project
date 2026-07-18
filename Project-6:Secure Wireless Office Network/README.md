@@ -36,6 +36,6 @@ Configure Access Point
 
   SSID--officewifi
   Security--WPA2-PSK
-  Password--Cisco123@
+  Password--adnan1234
 
   
